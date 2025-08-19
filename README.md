@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Fiverr, Upwork, Toptal, etc<br>🌱 I’m currently learning Web Development<br>💬 Ask me about working on AI & ML, Deep learning and Data science.<br>👍Excited to work with people that are better than me or like me.
+🔭 I’m currently working on Fiverr, Upwork, Toptal, etc<br>🌱 I’m currently searching for clients or jobs of Data Science<br>💬 Ask me about working on AI & ML, Deep learning and Data science.<br>👍Excited to work with people who want extraordinary work.
 
 
 ## 🌐 Socials:
